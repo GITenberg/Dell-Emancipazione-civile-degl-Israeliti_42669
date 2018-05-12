@@ -1,0 +1,35 @@
+_repo: Dell-Emancipazione-civile-degl-Israeliti_42669
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Azeglio, Massimo d'
+    aliases:
+    - Azeglio, Massimo Tapparelli, marchese d'
+    - D'Azeglio, Massimo
+    - D'Azeglio, M. (Massimo)
+    birthdate: 1798
+    deathdate: 1866
+    gutenberg_agent_id: '41807'
+    url: http://www.gutenberg.org/2009/agents/41807
+    wikipedia: http://it.wikipedia.org/wiki/Massimo_d%27Azeglio
+description: ''
+gutenberg_bookshelf: IT Scienze politiche
+gutenberg_issued: '2013-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42669'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- History -- 1815-1870'
+- !lcsh 'Jews -- Persecutions'
+- !lcsh 'Jewish question'
+- !lcc 'DS'
+- !lcsh 'Jews -- Emancipation'
+title: Dell'Emancipazione civile degl'Israeliti
+url: http://www.gutenberg.org/ebooks/42669
